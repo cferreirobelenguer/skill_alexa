@@ -1,0 +1,63 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "invocationName": "toy story",
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "name": "BuzzIntent",
+          "slots": [],
+          "samples": [
+            "hasta el infinito"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "name": "WoodyIntent",
+          "slots": [],
+          "samples": [
+            "Hay una serpiente"
+          ]
+        },
+        {
+          "name": "FraseBuzz",
+          "slots": [],
+          "samples": [
+            "buzz lighyear",
+            "Buzz Lightyear",
+            "lightyear",
+            "buzz"
+          ]
+        },
+        {
+          "name": "FraseWoody",
+          "slots": [],
+          "samples": [
+            "vaquero",
+            "woody"
+          ]
+        }
+      ],
+      "types": []
+    }
+  },
+  "version": "8"
+}
